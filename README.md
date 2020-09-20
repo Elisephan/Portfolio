@@ -12,7 +12,7 @@ This website serves as template for people who work in finance and need to showc
 
 *First install ubuntu software
 *Next install google chrome browser
-\*Then Install text editor(VS code or atom)
+*Then Install text editor(VS code or atom)
 
 ## Known bugs
 

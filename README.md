@@ -24,6 +24,11 @@ HTML 5
 
 CSS 3
 
+## Support and contact details
+
+Should you have any questions,comments or suggestions,don't hesitate to contact us on
+elise.ntakirutimana@gmail.com
+
 ## License
 
 This is website is licensed under MIT terms and conditions

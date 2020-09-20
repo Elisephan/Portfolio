@@ -3,3 +3,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+img {
+float: left;
+}
+body h3 {
+  font-family: serif;
+  text-transform: uppercase;
+  font-style: italic;
+}
